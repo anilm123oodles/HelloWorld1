@@ -1,0 +1,11 @@
+<plugin name='cxf-client' version='2.1.2' grailsVersion='2.2 &gt; *'>
+  <author>Grails Plugin Consortium</author>
+  <authorEmail>acetrike@gmail.com</authorEmail>
+  <title>Cxf Client - Support for Soap Service Endpoints</title>
+  <description>\
+Used for easily calling soap web services.  Provides wsdl2java grails target to easily generate code into src/java from configured cxf clients.  Ability to dynamically update endpoint at runtime.
+</description>
+  <documentation>https://github.com/Grails-Plugin-Consortium/grails-cxf-client</documentation>
+  <type>CxfClientGrailsPlugin</type>
+  <resources />
+</plugin>
